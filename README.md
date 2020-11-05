@@ -12,8 +12,8 @@
   <a href="https://github.com/nauhc" rel="nofollow noreferrer">
     <img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-</p>
 </br>
+</p>
 
 Fullstack developer and researcher.
 Making effort to deploy Machine Learning solutions to realworld problems.
