@@ -15,13 +15,14 @@
 </br>
 </p>
 
-Fullstack developer and researcher.
+Full-stack developer and researcher.
 Making effort to deploy Machine Learning solutions to realworld problems.
 
 <!--Recent topics: XAI, sequence data interaction/analysis -->
 <!--passionate in solving realworld problems-->
 
-- Speak: Chinese, English, Japanese
+<!-- - Speak: Chinese, English, Japanese -->
+
 - Programming languages: JavaScript, Python, C++/QT, SQL, MATLAB, Processing
 - Favorite toolchains: React/Redux/deck.gl/D3, PyTorch/TensorFlow, SciKit/NumPy/SciPy, MongoDB, OpenCV
 
