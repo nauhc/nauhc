@@ -15,25 +15,25 @@
 </br>
 </p>
 
-### About me
+### About me :octocat:
 
 Full-stack developer and researcher. </br>
-Making effort to deploy Machine Learning solutions to realworld problems. </br>
+Making effort to deploy Machine Learning solutions to realworld problems. :dancers: </br>
 
 <!--Recent topics: XAI, sequence data interaction/analysis -->
 <!--passionate in solving realworld problems-->
 
 <!-- - Speak: Chinese, English, Japanese -->
 
-### Programming in
+### Programming in :shipit:
 
 JavaScript, Python, C++/QT, SQL, MATLAB, Processing </br>
 
-### Favorite toolchains
+### Favorite toolchains :rocket:
 
 React/Redux/deck.gl/D3, PyTorch/TensorFlow, SciKit/NumPy/SciPy, MongoDB, OpenCV </br>
 
-### Connect with people in
+### Connect with people in :earth_americas:
 
 Chinese, English, Japanese
 
