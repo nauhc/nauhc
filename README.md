@@ -1,4 +1,4 @@
-### Hi, I'm Chuan :wave: 👩🏻‍💻
+## Hi, I'm Chuan :wave: 👩🏻‍💻
 
 <p>
   <a href="https://www.linkedin.com/in/nauhc/" rel="nofollow noreferrer">
@@ -15,16 +15,27 @@
 </br>
 </p>
 
-Full-stack developer and researcher.
-Making effort to deploy Machine Learning solutions to realworld problems.
+### About me
+
+Full-stack developer and researcher. </br>
+Making effort to deploy Machine Learning solutions to realworld problems. </br>
 
 <!--Recent topics: XAI, sequence data interaction/analysis -->
 <!--passionate in solving realworld problems-->
 
 <!-- - Speak: Chinese, English, Japanese -->
 
-- Programming languages: JavaScript, Python, C++/QT, SQL, MATLAB, Processing
-- Favorite toolchains: React/Redux/deck.gl/D3, PyTorch/TensorFlow, SciKit/NumPy/SciPy, MongoDB, OpenCV
+### Programming in
+
+JavaScript, Python, C++/QT, SQL, MATLAB, Processing </br>
+
+### Favorite toolchains
+
+React/Redux/deck.gl/D3, PyTorch/TensorFlow, SciKit/NumPy/SciPy, MongoDB, OpenCV </br>
+
+### Connect with people in
+
+Chinese, English, Japanese
 
 <!--
 **nauhc/nauhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
